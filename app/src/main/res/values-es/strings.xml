@@ -1,0 +1,9 @@
+<resources>
+    <string name="password">Contraseña</string>
+    <string name="username">Usuario</string>
+    <string name="iuser">Entrar usuario</string>
+    <string name="ipass">Entrar contraseña</string>
+    <string name="remember">Recordarme</string>
+    <string name="login">Inicio de sesion</string>
+    <string name="log_in">Iniciar Sesion</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">DemoLuis</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="iuser">Insert Username</string>
+    <string name="ipass">Insert Password</string>
+    <string name="remember">Remember Me</string>
+    <string name="log_in">Log in</string>
+
+</resources>
